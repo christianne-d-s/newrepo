@@ -1,2 +1,2 @@
 # newrepo
-to tryout
+to try out
